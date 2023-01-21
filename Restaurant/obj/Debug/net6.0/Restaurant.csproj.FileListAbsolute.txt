@@ -1,0 +1,15 @@
+C:\Linux_files\C#_files\Restaurant\Restaurant\bin\Debug\net6.0\Restaurant.exe
+C:\Linux_files\C#_files\Restaurant\Restaurant\bin\Debug\net6.0\Restaurant.deps.json
+C:\Linux_files\C#_files\Restaurant\Restaurant\bin\Debug\net6.0\Restaurant.runtimeconfig.json
+C:\Linux_files\C#_files\Restaurant\Restaurant\bin\Debug\net6.0\Restaurant.dll
+C:\Linux_files\C#_files\Restaurant\Restaurant\bin\Debug\net6.0\Restaurant.pdb
+C:\Linux_files\C#_files\Restaurant\Restaurant\obj\Debug\net6.0\Restaurant.csproj.AssemblyReference.cache
+C:\Linux_files\C#_files\Restaurant\Restaurant\obj\Debug\net6.0\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Linux_files\C#_files\Restaurant\Restaurant\obj\Debug\net6.0\Restaurant.AssemblyInfoInputs.cache
+C:\Linux_files\C#_files\Restaurant\Restaurant\obj\Debug\net6.0\Restaurant.AssemblyInfo.cs
+C:\Linux_files\C#_files\Restaurant\Restaurant\obj\Debug\net6.0\Restaurant.csproj.CoreCompileInputs.cache
+C:\Linux_files\C#_files\Restaurant\Restaurant\obj\Debug\net6.0\Restaurant.dll
+C:\Linux_files\C#_files\Restaurant\Restaurant\obj\Debug\net6.0\refint\Restaurant.dll
+C:\Linux_files\C#_files\Restaurant\Restaurant\obj\Debug\net6.0\Restaurant.pdb
+C:\Linux_files\C#_files\Restaurant\Restaurant\obj\Debug\net6.0\Restaurant.genruntimeconfig.cache
+C:\Linux_files\C#_files\Restaurant\Restaurant\obj\Debug\net6.0\ref\Restaurant.dll
